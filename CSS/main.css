@@ -1,0 +1,23 @@
+body {
+  background-color: black;
+  background-image: url(/VA/image-cover.jpg);
+  background-size: cover;
+  background-attachment: fixed;
+  color: bisque;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+nav {
+  background-color: brown;
+}
+.card {
+  background-color: black;
+}
+.card-img-top {
+  border-radius: 20px;
+}
+.table-songs {
+  width: 100%;
+  background-color: black;
+  font-size: xx-large;
+}
